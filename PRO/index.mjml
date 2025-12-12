@@ -22,28 +22,28 @@
             <table class="signature-table" cellpadding="0" cellspacing="0" border="0" align="left" style="width: auto">
               <tr>
                 <td class="photo-cell">
-                  <img src="./logo/me.png" alt="Augustin Briolon" width="120" height="120" style="width: 120px; height: 120px; display: block; border-radius: 0" />
+                  <img src="https://augustinbriolon.github.io/SIGNATURE-MAIL/logo/me.png" alt="Augustin Briolon" width="120" height="120" style="width: 120px; height: 120px; display: block; border-radius: 0" />
                 </td>
                 <td class="content-cell">
                   <p class="name">Augustin Briolon</p>
                   <p class="title">Développeur Créatif</p>
 
                   <p class="contact-line">
-                    <img src="./logo/mail.png" alt="" />
+                    <img src="https://augustinbriolon.github.io/SIGNATURE-MAIL/logo/mail.png" alt="" />
                     <a href="mailto:contact@august1.dev">contact@august1.dev</a>
                   </p>
 
                   <p class="contact-line">
-                    <img src="./logo/world.png" alt="" />
+                    <img src="https://augustinbriolon.github.io/SIGNATURE-MAIL/logo/world.png" alt="" />
                     <a href="https://august1.dev/">august1.dev</a>
                   </p>
 
                   <div class="social-links">
                     <a href="https://www.linkedin.com/in/augustin-briolon/" target="_blank">
-                      <img src="./logo/linkedin.png" alt="LinkedIn" />
+                      <img src="https://augustinbriolon.github.io/SIGNATURE-MAIL/logo/linkedin.png" alt="LinkedIn" />
                     </a>
                     <a href="https://github.com/AugustinBriolon" target="_blank">
-                      <img src="./logo/github.png" alt="GitHub" />
+                      <img src="https://augustinbriolon.github.io/SIGNATURE-MAIL/logo/github.png" alt="GitHub" />
                     </a>
                   </div>
                 </td>
