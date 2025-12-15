@@ -1,0 +1,67 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif" />
+      <mj-text color="#0e0e0e" line-height="1.6" />
+    </mj-attributes>
+    <mj-style>
+      .signature { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif; } .studio-name { font-size: 11px; color: #0e0e0e; font-weight: 400; letter-spacing: 0.8px;
+      text-transform: uppercase; margin: 0; padding: 0; line-height: 1.4; } .person-name { font-size: 14px; color: #0e0e0e; font-weight: 400; margin: 8px 0 0 0; padding: 0; line-height: 1.4; } .person-title { font-size: 12px; color:
+      #666666; font-weight: 400; margin: 2px 0 0 0; padding: 0; line-height: 1.4; } .contact { font-size: 16px; color: #0e0e0e; margin: 16px 0 0 0; padding: 0; line-height: 1.6; } .contact a { text-decoration: none; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <mj-section padding="0" text-align="left">
+      <mj-column width="100%">
+        <mj-raw>
+          <div class="signature" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+            <table cellpadding="0" cellspacing="0" border="0" style="width: 100%; max-width: 400px">
+              <tr>
+                <td style="padding: 0">
+                  <a href="https://paranthese.studio/" style="text-decoration: none; display: inline-block; margin-bottom: 12px" target="_blank">
+                    <img src="https://paranthese.studio/images/favicon.png" alt="Paranthese Studio" width="80" height="80" style="width: 80px; height: 80px; display: block; border: 0" />
+                  </a>
+
+                  <p
+                    class="person-name"
+                    style="
+                      font-size: 16px;
+                      color: black;
+                      font-weight: 500;
+                      margin: 0;
+                      padding: 0;
+                      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+                    "
+                  >
+                    Augustin BRIOLON
+                  </p>
+
+                  <p
+                    class="person-title"
+                    style="
+                      font-size: 14px;
+                      color: #666666;
+                      font-weight: 400;
+                      margin: 4px 0 12px 0;
+                      padding: 0;
+                      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+                    "
+                  >
+                    Fondateur & Développeur Créatif
+                  </p>
+
+                  <p
+                    class="contact"
+                    style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  >
+                    <a href="https://paranthese.studio/" style="color: black; text-decoration: none; font-weight: 700; font-style: uppercase; font-size: 18px">PARANTHESE STUDIO</a>
+                  </p>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </mj-raw>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
